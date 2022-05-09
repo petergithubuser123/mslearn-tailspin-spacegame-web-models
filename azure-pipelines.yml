@@ -1,5 +1,5 @@
 pool:
-  agentpool: default
+  name: default
 
 variables:
   buildConfiguration: 'Release'
